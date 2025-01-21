@@ -1,0 +1,40 @@
+.fruits{
+    background-color:red;
+    color: chocolate;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+    text-align: center;
+}
+.city{
+    background-color: aquamarine;
+    color: black;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid brown;
+    text-align: center;
+}
+.car{
+    background-color:darkgoldenrod;
+    color:sienna;
+    padding: 20px;
+    margin: 20px;
+    border: 2px soid firebrick;
+    text-align: center;
+}
+#computers{
+    background-color: chocolate;
+    color:lemonchiffon;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid cyan;
+    text-align: center;
+}
+.mycontainer{
+    width: 100%;
+    overflow: auto;
+}
+/*.mycontainer{*/
+/*    width: 33%;*/
+/*    float: left;*/
+/*}*/

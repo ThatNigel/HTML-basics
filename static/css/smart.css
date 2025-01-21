@@ -1,0 +1,16 @@
+form{
+    background-color:none;
+    font-family: "DejaVu Sans";
+    color: cyan;
+    margin: 20px;
+    border: 2px solid navajowhite;
+    width: 60%;
+}
+label{
+    color:firebrick ;
+    font-family:fantasy;
+}
+input{
+    width: 40%;
+
+}
